@@ -1,6 +1,6 @@
 make an error   # do not source this file
 ##################################################################################################################################################################
-# linear models of the pupilometry data from Kim, 21 March 2013.
+# linear models of the pupilometry data, 21 March 2013.
 ##################################################################################################################################################################
 # get the residuals from fitting a linear model to all the data (ignoring the old/new, valence labels) for each person.
 
